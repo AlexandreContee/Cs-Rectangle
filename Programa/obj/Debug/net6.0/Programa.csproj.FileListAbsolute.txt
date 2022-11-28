@@ -1,0 +1,15 @@
+C:\temp\projetos\Programa\Programa\bin\Debug\net6.0\Programa.exe
+C:\temp\projetos\Programa\Programa\bin\Debug\net6.0\Programa.deps.json
+C:\temp\projetos\Programa\Programa\bin\Debug\net6.0\Programa.runtimeconfig.json
+C:\temp\projetos\Programa\Programa\bin\Debug\net6.0\Programa.dll
+C:\temp\projetos\Programa\Programa\bin\Debug\net6.0\Programa.pdb
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.csproj.AssemblyReference.cache
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.AssemblyInfoInputs.cache
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.AssemblyInfo.cs
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.dll
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\refint\Programa.dll
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.pdb
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\Programa.genruntimeconfig.cache
+C:\temp\projetos\Programa\Programa\obj\Debug\net6.0\ref\Programa.dll
